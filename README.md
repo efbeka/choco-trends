@@ -31,5 +31,15 @@ Trends, links and similarities Analyser inside a pool of Twitter users.
 
 ### Contribute
 
+So simple!
+
+Fork, jump to a branch, add test, add feature, make tests pass, commit, push, make pull request!
+
 ## Links
+- [Choco-Trends](chocotrends.jit.su)
+
+## License
+We don't care, dude.
+
+MIT 
 
