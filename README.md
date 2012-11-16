@@ -6,6 +6,18 @@ Trends, links and similarities Analyser inside a pool of Twitter users.
 
 ## First, a simple scenario
 
+A user authenticate via his twitter account.
+
+He create one list. eg. 'favorited journalists'
+
+He add some twitter's users in his own list ('@foo', '@bar')
+
+Therefore he can visualize in **realtime** trends, all links, hashtags,
+
+tweets-as-comments about common subjects inside his pool,
+
+and some statistics (langages usage (french && english, huhu))
+
 
 ## Features
 
