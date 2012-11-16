@@ -21,6 +21,7 @@ and some statistics (langages usage (french && english, huhu))
 
 ## Features
 
+- +
 
 ## Architecture overview
 
@@ -31,15 +32,26 @@ and some statistics (langages usage (french && english, huhu))
 ## API descrition
 
 ## But before, check these node modules
+- [brain](https://github.com/harthur/brain)
+- [natural](https://github.com/NaturalNode/natural)
+- [axon](https://github.com/visionmedia/axon)
+
 
 ## Development
 
+We don't deal with deadlines!
+
 
 ### Todo
+- +
 
 ### Done
+- -
 
 ### Authors
+- Berger Fotso - [@bergerfotso](twitter.com/bergerfotso)
+- Regis Bamba - [@regisbamba](twitter.com/regisbamba)
+- Ebot Tabi - [@ebottabi](twitter.com/ebottabi)
 
 ### Contribute
 
