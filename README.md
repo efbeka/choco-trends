@@ -49,9 +49,9 @@ We don't deal with deadlines!
 - -
 
 ### Authors
-- Berger Fotso - [@bergerfotso](twitter.com/bergerfotso)
-- Regis Bamba - [@regisbamba](twitter.com/regisbamba)
-- Ebot Tabi - [@ebottabi](twitter.com/ebottabi)
+- Berger Fotso - [@bergerfotso](https://twitter.com/bergerfotso)
+- Regis Bamba - [@regisbamba](https://twitter.com/regisbamba)
+- Ebot Tabi - [@ebottabi](https://twitter.com/ebottabi)
 
 ### Contribute
 
@@ -60,7 +60,7 @@ So simple!
 Fork, jump to a branch, add test, add feature, make tests pass, commit, push, make pull request!
 
 ## Links
-- [Choco-Trends](chocotrends.jit.su)
+- [Choco-Trends](http://chocotrends.jit.su)
 
 ## License
 We don't care, dude.
