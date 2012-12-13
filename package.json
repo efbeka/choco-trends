@@ -1,0 +1,29 @@
+{
+  "name": "choco-trends",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.x",
+    "jade": "*",
+    "config": "0.4.x",
+    "async": "0.1.x",
+    "socket.io": "0.9.x",
+    "redis": "0.7.x",
+    "ntwitter": "0.5.x",
+    "moment": "1.7.x"
+  },
+  "devDependencies": {
+    "chai": "1.4.x",
+    "mocha": '*'
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/efbeka/choco-trends"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "0.8.x"
+  },
+}
